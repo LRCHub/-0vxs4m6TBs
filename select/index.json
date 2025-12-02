@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドン ペリニヨン",
+  "base_artist": "Dom Pérignon",
+  "createdAt": "2025-12-02T01:11:28.661636Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドンペリニヨン",
+      "artist": "カタソビ",
+      "has_synced": false,
+      "path": "select/pl_01_ドンペリニヨン_カタソビ.txt"
+    }
+  ]
+}
